@@ -244,7 +244,7 @@ export const seoData = {
 		"A passionate Full Stack Web Developer ",
 	author: "Saurabh Purkar",
 	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-	url: "https://developer-portfolio-1hanzla100.vercel.app",
+	url: "https://purkar.github.io/",
 	keywords: [
 		"Saurabh",
 		"Saurabh Purkar",
