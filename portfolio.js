@@ -243,7 +243,6 @@ export const seoData = {
 	description:
 		"A passionate Full Stack Web Developer ",
 	author: "Saurabh Purkar",
-	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
 	url: "https://purkar.github.io/",
 	keywords: [
 		"Saurabh",
