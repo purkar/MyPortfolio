@@ -16,7 +16,7 @@ import SEO from "../components/SEO";
 import Contact from "../components/ContactUs.jsx";
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
-export default function Home({ githubProfileData }) {
+export default  function Home({ githubProfileData }) {
   return (
     
     <div>
