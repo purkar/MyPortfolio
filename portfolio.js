@@ -192,7 +192,7 @@ export const experience = [
 		role: "Project Intern",
 		company: "Persistent Systems",
 		companylogo: "/img/icons/common/Persistent.jpeg",
-		date: "Sept 2021 - Oct 2021",
+		date: "April 2018 - April 2019",
 		desc: "Developed a generalized system to host hackathons which helped reduce manual work involved in hosting hackathon by automating tedious tasks such as problem statement classification and optimized allocation of nodal centers.",
 	}
 ];
