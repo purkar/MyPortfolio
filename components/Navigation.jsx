@@ -117,9 +117,7 @@ const Navigation = () => {
 											
 										>
 											Projects
-											<span className="nav-link-inner--text d-lg-none ml-2">
-												Github
-											</span>
+											
 										</NavLink>
 									</NavItem>
 								)}
@@ -133,9 +131,7 @@ const Navigation = () => {
 											
 										>
 											Contact
-											<span className="nav-link-inner--text d-lg-none ml-2">
-												Linkedin
-											</span>
+											
 										</NavLink>
 									</NavItem>
 								)}
